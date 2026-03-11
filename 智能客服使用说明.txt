@@ -1,0 +1,7 @@
+智能客服的知识库问答系统基于 AnythingLLM 这一RAG框架，需要在服务器电脑上下载这个软件并完成相应的配置才能够正常使用。
+
+AnythingLLM官网：https://anythingllm.com/
+
+教学配置视频：https://www.bilibili.com/video/BV1ioFyekEWj/
+
+推荐使用免费的API，本地大模型也行。免费的大模型API可以在 openrouter.ai 上申请key
